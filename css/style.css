@@ -1,0 +1,12 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ffff;
+}
+
+body {
+  font-family: "JetBrains Mono", monospace;
+}
+
+.container a {
+  color: #00cba9;
+}
